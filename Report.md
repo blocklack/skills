@@ -1,6 +1,7 @@
 # ETHUSDT Market Report
 
 **Period**: 2026-04-01 to 2026-04-07 (1d)
+
 **Generated**: 2026-04-07
 
 ## Price Summary
